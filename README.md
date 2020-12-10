@@ -1,6 +1,9 @@
-#### A guided exploration of UN data (Gross Domestic Product and Internet Usage)
+<img src="https://www.lgontario.ca/custom/uploads/2020/04/unnamed.jpg" width="600" height="150">
 
-##### In-class practice 1  
+
+## United Nation Data Analysis (Gross Domestic Product and Internet Usage)
+
+The datasets are taken from United Nation Data Portal. Files include Gross Domestic Product (GDP) per capita and Percentage of Individuals using the Internet in csv format. 
 
 1. Create a `data` and a `notebooks` folder in your local project repository.  
 
